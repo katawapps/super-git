@@ -7,6 +7,9 @@
 	<link rel="stylesheet" href="">
 </head>
 <body>
+<center>SUPER GIT</center>
 		<h1>MI NOMBRE ES: HUGO</h1>
+
+
 </body>
 </html>
